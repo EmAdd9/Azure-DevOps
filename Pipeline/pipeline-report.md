@@ -67,5 +67,5 @@ jobs:
     inputs:
       script: >
         java -jar target/*.jar
-'''
-This YAML code represents an Azure CI Pipeline configuration that includes various tasks for building, testing, and analyzing a Java application.
+
+This YAML code represents an Azure CI Pipeline configuration that includes various tasks for building, testing, and analyzing a Java application.Please note that the provided code may need further adjustments depending on your specific requirements and the tools and technologies you are using.
