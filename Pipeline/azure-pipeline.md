@@ -23,6 +23,7 @@ To create an Azure Pipeline using the Classic Editor, follow these steps:
 8. Configure each task by providing the necessary inputs and parameters. You can specify things like the target platform, script files, command-line arguments, and more.
 9. Use the control flow options to manage the execution of your pipeline. You can add conditions, parallelize tasks, and control the overall flow based on success or failure.
 10. Once you have defined your pipeline stages and tasks, click on the Save & queue button to save your pipeline configuration.
+ 
 ![Pipeline-stages](https://github.com/EmAdd9/Azure-DevOps/blob/c426d4b279440734ac1cf8be7f66dc0abe382b2a/images/Pipeline-stages.png)
 
 ## Running the Pipeline
@@ -33,6 +34,7 @@ To run your Azure Pipeline, follow these steps:
 2. Click on the Run button to manually trigger a pipeline run. You can also set up triggers to automatically start the pipeline on events like code commits or pull requests.
 3. Monitor the progress of your pipeline as it executes. You can view the logs, check the status of each stage, and identify any issues that occur during the process.
 4. Once the pipeline run is complete, you can review the results and any generated artifacts or build outputs.
+   
 ![pipeline](https://github.com/EmAdd9/Azure-DevOps/blob/c426d4b279440734ac1cf8be7f66dc0abe382b2a/images/Azure-pipeline-ci.png)
 
 ## Conclusion
