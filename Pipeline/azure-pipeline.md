@@ -1,6 +1,3 @@
-Sure, here's the provided text in markdown format:
-
-```markdown
 # Azure Pipelines with Classic Editor
 
 Azure Pipelines is a powerful continuous integration and delivery (CI/CD) platform provided by Microsoft Azure. The Classic Editor in Azure Pipelines allows you to define your build and release pipelines using a graphical interface. This guide will walk you through the steps to set up and configure Azure Pipelines using the Classic Editor.
@@ -26,6 +23,7 @@ To create an Azure Pipeline using the Classic Editor, follow these steps:
 8. Configure each task by providing the necessary inputs and parameters. You can specify things like the target platform, script files, command-line arguments, and more.
 9. Use the control flow options to manage the execution of your pipeline. You can add conditions, parallelize tasks, and control the overall flow based on success or failure.
 10. Once you have defined your pipeline stages and tasks, click on the Save & queue button to save your pipeline configuration.
+![Pipeline-stages](https://github.com/EmAdd9/Azure-DevOps/blob/c426d4b279440734ac1cf8be7f66dc0abe382b2a/images/Pipeline-stages.png)
 
 ## Running the Pipeline
 
@@ -35,12 +33,10 @@ To run your Azure Pipeline, follow these steps:
 2. Click on the Run button to manually trigger a pipeline run. You can also set up triggers to automatically start the pipeline on events like code commits or pull requests.
 3. Monitor the progress of your pipeline as it executes. You can view the logs, check the status of each stage, and identify any issues that occur during the process.
 4. Once the pipeline run is complete, you can review the results and any generated artifacts or build outputs.
+![pipeline](https://github.com/EmAdd9/Azure-DevOps/blob/c426d4b279440734ac1cf8be7f66dc0abe382b2a/images/Azure-pipeline-ci.png)
 
 ## Conclusion
 
 Congratulations! You have successfully set up and executed an Azure Pipeline using the Classic Editor. Azure Pipelines provides extensive capabilities for building, testing, and deploying your applications, helping you streamline your software development process. Explore the [Azure Pipelines documentation](https://docs.microsoft.com/azure/devops/pipelines/) for more advanced features and customization options.
 
 For more information and detailed documentation on Azure Pipelines using the Classic Editor, refer to the official [Azure Pipelines documentation](https://docs.microsoft.com/azure/devops/pipelines/) provided by Microsoft.
-```
-
-Feel free to use this markdown code in your documentation or README.md file.
