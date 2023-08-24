@@ -43,4 +43,5 @@ Both Azure Container Registry (ACR) and Docker Hub are platforms for managing Do
   - Public repositories for easy sharing with the community.
 
 In summary, Azure Container Registry is a managed private registry designed for organizations using Azure services, emphasizing security and integration. Docker Hub is a public and private registry that focuses on sharing and collaboration within the broader developer community. Your choice between the two will depend on your specific needs, project requirements, and preferred level of privacy and control.
-![image](https://github.com/EmAdd9/Azure-DevOps/assets/91713238/946653d6-b675-444c-8752-d6e4d8bf3d1f)
+
+![ACR](https://github.com/EmAdd9/Azure-DevOps/blob/e5ab4250de49f84096c895baed4cae6c0cda8443/images/ACR.png)
